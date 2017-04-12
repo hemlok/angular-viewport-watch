@@ -19,5 +19,20 @@
   "private": false,
   "publishConfig": {
     "registry": "http://repo.dev.wix/artifactory/api/npm/npm-local/"
-  }
+  },
+  "description": "Angular Viewport Watch [![Build Status](https://travis-ci.org/shahata/angular-viewport-watch.svg?branch=master)](https://travis-ci.org/shahata/angular-viewport-watch) [![Coverage Status](https://coveralls.io/repos/shahata/angular-viewport-watch/badge.png?branch=master)](https://coveralls.io/r/shahata/angular-viewport-watch?branch=master) ================",
+  "main": "angular-viewport-watch.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemlok/angular-viewport-watch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemlok/angular-viewport-watch/issues"
+  },
+  "homepage": "https://github.com/hemlok/angular-viewport-watch#readme"
 }

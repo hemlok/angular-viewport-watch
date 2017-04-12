@@ -74,5 +74,5 @@
             }
         };
     }
-    angular.module("angularViewportWatch", []).directive("viewportWatch", viewportWatch).value("scrollMonitor", window.scrollMonitor);
+    angular.module("angular-viewport-watch", []).directive("viewportWatch", viewportWatch).value("scrollMonitor", window.scrollMonitor);
 })();
